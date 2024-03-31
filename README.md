@@ -1,7 +1,7 @@
 
 **My Skills :**
 
-[![Skills](https://cdn.discordapp.com/attachments/984138155491995650/1159907388741124186/icons.svg)]()
+[![Skills](https://skillicons.dev/icons?i=azure,bash,cs,debian,discord,docker,dotnet,ai,pytorch,raspberrypi,vscode)]()
 
 **My Discord Profile :**
 
